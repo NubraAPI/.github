@@ -20,7 +20,7 @@ Our platform enables developers, traders, and platforms to build:
   Trading, market data, option chain, margins
 
 - Official SDKs  
-  [Python](https://github.com/nubrahq/nubra-python) *(coming soon)*
+  [Python](https://github.com/nubrahq/nubra-python)
 
 ---
 
