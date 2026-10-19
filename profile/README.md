@@ -127,8 +127,8 @@ Give AI agents live market data through the Nubra MCP server.
 
 ## 🎓 Learn with us
 
-- 🎥 [Webinar recordings on YouTube](https://www.youtube.com/@Nubra_io): delta hedging, gamma hedging, building with MCP, and more
-- 🏫 Running a college workshop or tech fest? Reach out at [support@nubra.io](mailto:support@nubra.io)
+- 🎥 [Learn with YouTube](https://www.youtube.com/@Nubra_io): delta hedging, gamma hedging, building with MCP, and more
+- 🏫 Encountered bugs? Need help  Reach out at [support@nubra.io](mailto:support@nubra.io)
 
 ---
 
@@ -141,9 +141,9 @@ Give AI agents live market data through the Nubra MCP server.
 | 🙌 **Built something?** | Share it in [Show and tell](https://github.com/orgs/NubraAPI/discussions/categories/show-and-tell). We feature community projects! |
 | 💡 **Have an idea?** | Post it in [Ideas](https://github.com/orgs/NubraAPI/discussions/categories/ideas) |
 | 🐛 **Found a bug?** | Open an [Issue](https://github.com/NubraAPI/nubra-python-sdk/issues) |
-| ✉️ **Account or login help?** | Email [support@nubra.io](mailto:support@nubra.io) |
+| ✉️ **Found a bug or need help?** | Email [support@nubra.io](mailto:support@nubra.io) and our team will get back to you! |
 
-⭐ **If our repos help you, star them.** It helps other developers find Nubra.
+⭐ **If our repos help you, star them.** It helps other developers find Nubra too.
 
 ---
 
