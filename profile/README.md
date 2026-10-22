@@ -4,8 +4,8 @@
 
 # Nubra for Developers
 
-**Trading and market data APIs for Indian markets.**
-Build algos, options analytics, real-time dashboards and AI trading agents in Python.
+**Trading and market data APIs for Indian stock markets.**
+Build algos, options analytics, real-time dashboards and AI trading agents in Python with Nubra Python SDK.
 
 [![PyPI](https://img.shields.io/pypi/v/nubra-sdk?label=nubra-sdk&color=1f6feb)](https://pypi.org/project/nubra-sdk/)
 [![Downloads](https://img.shields.io/pypi/dm/nubra-sdk?color=1f6feb)](https://pypi.org/project/nubra-sdk/)
